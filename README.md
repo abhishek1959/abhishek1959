@@ -1,4 +1,4 @@
-###👋 Hi I'm Abhishek Prakash.
+👋 Hi I'm Abhishek Prakash.
 
 <!--
 **abhishek1959/abhishek1959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
