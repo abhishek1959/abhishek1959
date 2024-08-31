@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I am a third-year undergraduate in the <b>Department of Electrical Engineering</b> at <b>Indian Institute of Technology Kanpur</b>.
-- 👀 I'm interested in <b>Web Development</b>, <b>Machine Learning</b>, and <b>Deep Learning</b> techniques.
+- 🔭 I'm a <b>B.Tech - M.Tech (Dual Degree)</b> student in the <b>Department of Electrical Engineering</b> at <b>Indian Institute of Technology Kanpur</b>, with a passing year of <b>2026</b>.
+- 👀 I'm interested in <b>Software Development</b>, <b>Data Science</b>, <b>Data Analyst</b>, <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>Web Development</b> techniques.
 - 🌱 I’m also working on my skills in <b>Data Structures and Algorithms</b> problems.
 <!--
 - 👯 I’m looking to collaborate on ...
